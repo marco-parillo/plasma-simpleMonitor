@@ -1,7 +1,7 @@
 # Original Maintainer of this PKGBUILD file: Martino Pilia <martino.pilia@gmail.com>; revised by Marco Parillo <maparillo@gmail.com>
 _upstream_name=plasma-simpleMonitor
 pkgname=plasma5-applets-simplemonitorMAP
-pkgver=0.6
+pkgver=0.6.1
 pkgrel=1
 pkgdesc="A simple monitor for plasma, completely written in QML and Javascript"
 arch=('any')
