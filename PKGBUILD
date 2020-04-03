@@ -12,7 +12,7 @@ depends=('plasma-workspace')
 optdepends=()
 makedepends=('extra-cmake-modules')
 source=(https://github.com/marco-parillo/${_upstream_name}/archive/v${pkgver}.tar.gz)
-sha512sums=('7f8f62488e7de1aa5efc3184a6394297f075fb98157b670e0552a3c21377e189e551bfee02141e3fa810dc00e586bdff9cd00818e69d435693f7f9b86cda4a0e')
+sha512sums=('6ca4145c0a1d7d93c99d32dae1cf03739f06e08e972e46795add555196319f845fc7ea316ce54f591e3fb18c3b5cf81e7caee7afb5b593ca32bdac7c05b94c1c')
 
 build() {
   cd "$srcdir/$_upstream_name-$pkgver"
